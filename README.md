@@ -26,10 +26,3 @@
   <img width="12" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://www.instagram.com/jao_lodi/" height="35" alt="instagram logo"  />
-</div>
-
-###
