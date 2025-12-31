@@ -13,7 +13,7 @@
 ### 📚 Atualmente aprendendo
 - Boas práticas de backend (SOLID, Clean Code)
 - Desenvolvimento de APIs REST com Laravel
-- Padrões de projeto (MVC, Repository)
+- Padrões de projeto (MVC, Repository Pattern)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
