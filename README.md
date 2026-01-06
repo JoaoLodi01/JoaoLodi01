@@ -9,6 +9,7 @@
 ### 🚀 Projetos em destaque
 - 🛒 Ecommerce – sistema com controle de produtos, pedidos e usuários
 - 📅 Agendamento – aplicação para agendamento de serviços
+- 🌐 API-Delivey - CRUD de rotas de entrega com consulta de api externa.
 
 ### 📚 Atualmente aprendendo
 - Boas práticas de backend (SOLID, Clean Code)
