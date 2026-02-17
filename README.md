@@ -33,7 +33,7 @@ Atualmente expandindo minha stack para o ecossistema **React e React Native**, v
 - Vue.js
 - Quasar Framework
 - JavaScript / TypeScript
-- React (em evolução)
+- React e React Native (em evolução)
 
 ---
 
