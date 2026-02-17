@@ -1,7 +1,7 @@
 <h2 align="left"></h2>
 
 
-🎯 Desenvolvedor Júnior focado em Backend
+🎯 Desenvolvedor Júnior focado em Backend com conhecimento fullstack
 
 💻 PHP | Laravel | MySQL | Git  
 📍 Concórdia - SC
