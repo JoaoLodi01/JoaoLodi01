@@ -1,30 +1,35 @@
-<h2 align="center">🚀 João Lodi</h2>
+<h2 align="center">João Lodi</h2>
 <p align="center">
-Desenvolvedor com foco em Backend | PHP & Laravel
+Backend Developer • Arquitetura • APIs • Sistemas Escaláveis
 </p>
 
 ---
 
-## 🎯 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco principal em **Backend**, construindo APIs robustas, organizadas e escaláveis com **PHP e Laravel**.
+Sou desenvolvedor com foco principal em **Backend**, especializado na construção de APIs robustas, organizadas e preparadas para escalar utilizando **PHP e Laravel**.
 
-Apesar do foco no servidor, desenvolvo também o **frontend dos meus próprios projetos**, o que me proporciona uma visão completa da aplicação (Fullstack na prática).
+Meu diferencial é unir estrutura e visão de produto: além do backend, desenvolvo o frontend dos meus próprios projetos, garantindo integração eficiente entre interface e regras de negócio.
 
-Atualmente estou expandindo minha stack para o ecossistema **React** e **React Native**, visando aplicações web modernas e desenvolvimento mobile.
+Tenho como objetivo criar sistemas profissionais, com código limpo, arquitetura bem definida e responsabilidade técnica.
+
+Atualmente expandindo minha stack para o ecossistema **React e React Native**, visando aplicações modernas e soluções multiplataforma.
 
 ---
 
-## 🛠️ Stack Principal (Backend First)
+## 🧠 Especialidade Técnica
 
-**Backend**
+### 🔹 Backend (Foco Principal)
 - PHP
 - Laravel
+- APIs RESTful
 - Arquitetura MVC
 - Repository Pattern
-- APIs RESTful
+- Separação de responsabilidades
+- Estruturação de regras de negócio
+- Organização modular
 
-**Frontend**
+### 🔹 Frontend (Integração Completa)
 - Vue.js
 - Quasar Framework
 - JavaScript / TypeScript
@@ -32,46 +37,48 @@ Atualmente estou expandindo minha stack para o ecossistema **React** e **React N
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Relevantes
 
-🛒 **E-commerce**
-Sistema completo com:
-- Controle de produtos
-- Pedidos
-- Usuários
-- Módulo financeiro (Caixa, Pagar e Receber)
+### 🛒 Sistema E-commerce
+- Controle completo de produtos, pedidos e usuários
+- Módulo financeiro estruturado (Caixa, Pagar e Receber)
+- Separação de regras de pagamento no backend
+- Organização por camadas e serviços
 
-📅 **Sistema de Agendamento**
-Aplicação para controle e organização de serviços.
+### 📦 API Delivery
+- CRUD de rotas de entrega
+- Integração com API externa
+- Estruturação limpa de controllers e services
 
-🌐 **API Delivery**
-CRUD de rotas de entrega com integração a API externa.
+### 📅 Sistema de Agendamento
+- Gestão de serviços e horários
+- Validação e organização de fluxo de dados
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Em constante evolução
 
 - SOLID
 - Clean Code
-- Arquitetura limpa
+- Arquitetura Limpa
 - React
 - React Native
-- Boas práticas para APIs escaláveis
+- Padrões de Projeto
 
 ---
 
-## 💡 Objetivo
+## 🎯 Objetivo Profissional
 
-Me especializar como desenvolvedor backend, criando sistemas sólidos, organizados e preparados para escalar — mantendo domínio suficiente de frontend para entregar soluções completas.
+Me consolidar como desenvolvedor backend capaz de projetar e estruturar sistemas sólidos, com visão arquitetural e capacidade de entrega completa — do banco à interface.
 
 ---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
 </div>
