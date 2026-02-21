@@ -25,8 +25,8 @@ Atualmente expandindo minha stack para o ecossistema **React e React Native**, v
 - APIs RESTful
 - Arquitetura MVC
 - Repository Pattern
-- Separação de responsabilidades
-- Estruturação de regras de negócio
+- Domain Layer
+- Estruturação SOLID e CLEAN CODE
 - Organização modular
 
 ### 🔹 Frontend (Integração Completa)
@@ -39,16 +39,16 @@ Atualmente expandindo minha stack para o ecossistema **React e React Native**, v
 
 ## 🚀 Projetos Relevantes
 
-### 🛒 SaaS E-commerce
-- Controle completo de produtos, pedidos e usuários
-- Módulo financeiro estruturado (Caixa, Pagar e Receber)
-- Separação de regras de pagamento no backend
-- Organização por camadas e serviços
-
 ### 📦 SaaS Restaurante (em desenvolvimento)
 - Autenticação de usuários e Mult-tenant
 - CRUD necessários para restaurantes
 - Estruturação limpa de controllers e services (SOLID, Clean Code)
+
+### 🛒 SaaS Gerencial
+- Controle completo de produtos, pedidos e usuários
+- Módulo financeiro estruturado (Caixa, Pagar e Receber)
+- Separação de regras de pagamento no backend
+- Organização por camadas e serviços
 
 ### 📅 SaaS Agendamento
 - Gestão de serviços e horários
