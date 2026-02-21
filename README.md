@@ -39,18 +39,18 @@ Atualmente expandindo minha stack para o ecossistema **React e React Native**, v
 
 ## 🚀 Projetos Relevantes
 
-### 🛒 Sistema E-commerce
+### 🛒 SaaS E-commerce
 - Controle completo de produtos, pedidos e usuários
 - Módulo financeiro estruturado (Caixa, Pagar e Receber)
 - Separação de regras de pagamento no backend
 - Organização por camadas e serviços
 
-### 📦 API Delivery
-- CRUD de rotas de entrega
-- Integração com API externa
-- Estruturação limpa de controllers e services
+### 📦 SaaS Restaurante (em desenvolvimento)
+- Autenticação de usuários e Mult-tenant
+- CRUD necessários para restaurantes
+- Estruturação limpa de controllers e services (SOLID, Clean Code)
 
-### 📅 Sistema de Agendamento
+### 📅 SaaS Agendamento
 - Gestão de serviços e horários
 - Validação e organização de fluxo de dados
 
