@@ -37,9 +37,9 @@ Atualmente expandindo minha stack para o ecossistema **React e React Native**, v
 
 ---
 
-## 🚀 Projetos Relevantes
+## 🚀 Projetos Relevantes (Em desenvolvimento)
 
-### 📦 SaaS Restaurante (em desenvolvimento)
+### 📦 SaaS Restaurante
 - Autenticação de usuários e Mult-tenant
 - CRUD necessários para restaurantes
 - Estruturação limpa de controllers e services (SOLID, Clean Code)
