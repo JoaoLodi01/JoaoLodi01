@@ -1,75 +1,75 @@
 <h2 align="center">João Lodi</h2>
 <p align="center">
-Backend Developer • Arquitetura • APIs • Sistemas Escaláveis
+Fullstack Developer • Mobile (React Native) • Backend (Laravel)
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco principal em **Backend**, especializado na construção de APIs robustas, organizadas e preparadas para escalar utilizando **PHP e Laravel**.
+Sou desenvolvedor com foco em **aplicações mobile utilizando React Native**, construindo soluções completas integradas com APIs próprias desenvolvidas em **Laravel**.
 
-Meu diferencial é unir estrutura e visão de produto: além do backend, desenvolvo o frontend dos meus próprios projetos, garantindo integração eficiente entre interface e regras de negócio.
+Possuo forte base em backend, o que me permite estruturar aplicações com organização, escalabilidade e controle eficiente das regras de negócio.
 
-Tenho como objetivo criar sistemas profissionais, com código limpo, arquitetura bem definida e responsabilidade técnica.
-
-Atualmente expandindo minha stack para o ecossistema **React e React Native**, visando aplicações modernas e soluções multiplataforma.
+Meu diferencial é unir **arquitetura + visão de produto**, desenvolvendo sistemas completos — do backend à interface — com código limpo e responsabilidade técnica.
 
 ---
 
 ## 🧠 Especialidade Técnica
 
-### 🔹 Backend (Foco Principal)
+### 🔹 Mobile & Frontend
+- React Native (Expo)
+- React
+- JavaScript / TypeScript
+
+### 🔹 Backend (Diferencial)
 - PHP
 - Laravel
 - APIs RESTful
 - Arquitetura MVC
 - Repository Pattern
 - Domain Layer
-- Estruturação SOLID e CLEAN CODE
+- SOLID e Clean Code
 - Organização modular
 
-### 🔹 Frontend (Integração Completa)
+### 🔹 Web (Complementar)
 - Vue.js
 - Quasar Framework
-- JavaScript / TypeScript
-- React e React Native (em evolução)
 
 ---
 
 ## 🚀 Projetos Relevantes (Em desenvolvimento)
 
 ### 📦 SaaS Restaurante
-- Autenticação de usuários e Mult-tenant
-- CRUD necessários para restaurantes
-- Estruturação limpa de controllers e services (SOLID, Clean Code)
+- API estruturada com Laravel
+- Autenticação e multi-tenant
+- Integração com aplicação mobile
 
 ### 🛒 SaaS Gerencial
-- Controle completo de produtos, pedidos e usuários
-- Módulo financeiro estruturado (Caixa, Pagar e Receber)
-- Separação de regras de pagamento no backend
-- Organização por camadas e serviços
+- Controle de produtos, pedidos e usuários
+- Módulo financeiro (Caixa, Pagar e Receber)
+- Regras de negócio centralizadas no backend
 
 ### 📅 SaaS Agendamento
 - Gestão de serviços e horários
-- Validação e organização de fluxo de dados
+- Integração entre backend e aplicação mobile
 
 ---
 
 ## 📚 Em constante evolução
 
-- SOLID
+- Arquitetura de Software
 - Clean Code
-- Arquitetura Limpa
-- React
+- SOLID
 - React Native
+- Integração Backend + Mobile
 - Padrões de Projeto
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Me consolidar como desenvolvedor backend capaz de projetar e estruturar sistemas sólidos, com visão arquitetural e capacidade de entrega completa — do banco à interface.
+Atuar como desenvolvedor **Mobile com forte base em backend**, criando aplicações completas, escaláveis e bem estruturadas, com domínio da regra de negócio e da experiência do usuário.
 
 ---
 
@@ -81,4 +81,6 @@ Me consolidar como desenvolvedor backend capaz de projetar e estruturar sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
 </div>
