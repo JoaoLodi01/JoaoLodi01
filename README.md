@@ -1,86 +1,140 @@
-<h2 align="center">João Lodi</h2>
+<h1 align="center">João Lodi</h1>
+
 <p align="center">
-Fullstack Developer • Mobile (React Native) • Backend (Laravel)
+Software Engineer • SaaS Builder • Founder @ Veratti
+</p>
+
+<p align="center">
+Construindo produtos que simplificam negócios através de tecnologia.
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="34"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="34"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
+
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👋 Sobre mim
 
-Sou desenvolvedor com foco em **aplicações mobile utilizando React Native**, construindo soluções completas integradas com APIs próprias desenvolvidas em **Laravel**.
+Sou engenheiro de software e fundador da **Veratti**, onde desenvolvo plataformas SaaS com foco em arquitetura sólida, experiência do usuário e escalabilidade.
 
-Possuo forte base em backend, o que me permite estruturar aplicações com organização, escalabilidade e controle eficiente das regras de negócio.
+Meu trabalho vai além de escrever código. Gosto de transformar processos complexos em produtos simples de utilizar, projetando desde a arquitetura do backend até a experiência final do usuário.
 
-Meu diferencial é unir **arquitetura + visão de produto**, desenvolvendo sistemas completos — do backend à interface — com código limpo e responsabilidade técnica.
+Atualmente concentro meus esforços na construção do **V-Campus**, uma plataforma SaaS para gestão educacional desenvolvida com Laravel, Vue e Quasar.
 
 ---
 
-## 🧠 Especialidade Técnica
+# 🚀 O que gosto de construir
 
-### 🔹 Mobile & Frontend
-- React Native (Expo)
-- React
-- JavaScript / TypeScript
+- Plataformas SaaS
+- APIs REST
+- Sistemas multi-tenant
+- Arquiteturas escaláveis
+- Produtos focados em UX
+- Sistemas de auditoria
+- Controle de permissões (RBAC)
+- Dashboards administrativos
+- Regras de negócio complexas
+- Produtos de longo prazo
 
-### 🔹 Backend (Diferencial)
+---
+
+# 🛠 Tecnologias
+
+## Backend
+
 - PHP
 - Laravel
-- APIs RESTful
-- Arquitetura MVC
-- Repository Pattern
-- Domain Layer
-- SOLID e Clean Code
-- Organização modular
+- PostgreSQL
+- REST APIs
+- Multi-tenancy
+- RBAC
+- Filas
+- Auditoria
+- Arquitetura Modular
 
-### 🔹 Web (Complementar)
-- Vue.js
-- Quasar Framework
+## Frontend
 
----
+- Vue
+- Quasar
+- Nuxt
+- TypeScript
 
-## 🚀 Projetos Relevantes (Em desenvolvimento)
+## Engenharia
 
-### 📦 SaaS Restaurante
-- API estruturada com Laravel
-- Autenticação e multi-tenant
-- Integração com aplicação mobile
-
-### 🛒 SaaS Gerencial
-- Controle de produtos, pedidos e usuários
-- Módulo financeiro (Caixa, Pagar e Receber)
-- Regras de negócio centralizadas no backend
-
-### 📅 SaaS Agendamento
-- Gestão de serviços e horários
-- Integração entre backend e aplicação mobile
-
----
-
-## 📚 Em constante evolução
-
-- Arquitetura de Software
-- Clean Code
 - SOLID
-- React Native
-- Integração Backend + Mobile
-- Padrões de Projeto
+- Clean Architecture
+- Domain Driven Design (quando aplicável)
+- Clean Code
+- Product Thinking
+- Performance
+- Segurança
+- Escalabilidade
 
 ---
 
-## 🎯 Objetivo Profissional
+# 🏢 Projeto Principal
 
-Atuar como desenvolvedor **Mobile com forte base em backend**, criando aplicações completas, escaláveis e bem estruturadas, com domínio da regra de negócio e da experiência do usuário.
+## V-Campus
+
+Plataforma SaaS para gestão educacional desenvolvida pela Veratti.
+
+**Tecnologias**
+
+- Laravel
+- Vue
+- Quasar
+- PostgreSQL
+
+**Arquitetura**
+
+- Multi-tenant
+- RBAC
+- API REST
+- Auditoria
+- Arquitetura modular
+- Escalabilidade para múltiplas instituições
+
+> O projeto é privado e não possui código aberto.
 
 ---
+
+# 🌱 Atualmente estudando
+
+- Arquitetura SaaS
+- Nuxt
+- UX para aplicações complexas
+- Performance Web
+- Escalabilidade
+- Branding
+- Produto
+
+---
+
+# 🎯 Objetivo
+
+Construir produtos de software que realmente resolvam problemas reais.
+
+Acredito que tecnologia deve simplificar processos, gerar resultados e proporcionar uma excelente experiência para quem utiliza.
+
+Meu objetivo é fazer da **Veratti** uma empresa reconhecida pela qualidade de seus produtos, arquitetura e relacionamento com seus clientes.
+
+---
+
+<p align="center">
+
+<i>"Software bem construído não é apenas código. É confiança, simplicidade e evolução contínua."</i>
+
+</p>
